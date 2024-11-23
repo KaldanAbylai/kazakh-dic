@@ -1,0 +1,13 @@
+*{
+    inset: 0;
+    margin: 0;
+    padding: 0;
+}
+.quiz-card{
+    margin-left: 100px;
+}
+body{
+    background-image: url(https://images.wallpaperscraft.ru/image/single/gradient_sinij_fioletovyj_151819_1920x1080.jpg) !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
